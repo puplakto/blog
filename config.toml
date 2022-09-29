@@ -1,36 +1,26 @@
-baseURL = "https://www.pupraki.com"
+baseURL = "https://lakto.pupraki.com/"
 languageCode = "zh-HK"
-title = "Raki的人型犬空間"
+title = "Lakto's Burrow"
 theme = "m10c"
 publishDir = "docs"
 
-[menu]
-#   [[menu.main]]
-#     identifier = "home"
-#     name = "Home"
-#     url = "/"
-
-#   [[menu.main]]
-#     identifier = "tags"
-#     name = "Tags"
-#     url = "/tags/"
 
 [params]
-    author = "Raki"
-    description = "我是狗狗。我叫Raki。我喜歡人型犬、貞操帶、乳膠衣、綑綁束縛等各式各樣的玩法。這裏是我對於BDSM的感想、遊記等文檔存庫。想看圖片的話請到臉書或推持喔。"
+    author = "Lakto"
     avatar = "avatar.jpg"
+    description = "Lakto is the perfect partner for tea, and a beverage made from Raki."
 
     [[params.social]]
         name = "facebook"
-        url = "https://www.facebook.com/pupraki"
+        url = "https://www.facebook.com/puplakto"
 
     [[params.social]]
         name = "twitter"
-        url = "https://twitter.com/PupRaki"
+        url = "https://twitter.com/PupLakto"
 
     [params.style]
-        darkestColor = "#36454f" # charcoal
-        darkColor = "#212121"
-        primaryColor = "#ffffff"
+        darkestColor = "#ffffff" # charcoal
+        darkColor = "#253031"
+        primaryColor = "#315659"
         lightColor = "#a2a2a2"
         lightestColor = "#d3d3d3"
