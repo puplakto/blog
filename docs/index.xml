@@ -6,7 +6,16 @@
     <description>Recent content on Lakto&#39;s Burrow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-HK</language>
-    <lastBuildDate>Mon, 29 Aug 2022 20:44:47 -0700</lastBuildDate><atom:link href="https://lakto.pupraki.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 17:11:32 -0700</lastBuildDate><atom:link href="https://lakto.pupraki.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making your own LoRA</title>
+      <link>https://lakto.pupraki.com/blog/2023-05-making-your-own-lora/</link>
+      <pubDate>Sun, 14 May 2023 17:11:32 -0700</pubDate>
+      
+      <guid>https://lakto.pupraki.com/blog/2023-05-making-your-own-lora/</guid>
+      <description>This is an experimental tutorial inpired by yatoracat LoRA guide: 1枚の絵から設定資料風画像を作る , and the goal is to provide a reproducible way to train a LoRA model. As a hobby AI art creator, generating charactors with stable patterns is a long desired feature of mine. The look of the charator can vary a lot with a</description>
+    </item>
+    
     <item>
       <title>狗狗的第一次吊縛</title>
       <link>https://lakto.pupraki.com/blog/2022-08-suspension-bondage/</link>
